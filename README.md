@@ -1,6 +1,6 @@
 🔹 Objective
 
-Analyze sales data to identify trends and improve business decisions.
+“Amazon Sales Data Analysis: Insights into Customer Behavior & Revenue Drivers”
 
 🔹 Tools Used
 Python
