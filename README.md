@@ -21,7 +21,7 @@ The analysis aims to answer important business questions such as:
 
 * **Python** (Pandas, NumPy)
 * **Data Visualization** (Matplotlib, Seaborn)
-* **Jupyter Notebook / Google Colab**
+* **Google Colab**
 
 ---
 
