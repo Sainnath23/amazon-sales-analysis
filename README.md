@@ -1,12 +1,12 @@
-# 📊 Amazon Sales Data Analysis
+--> Amazon Sales Data Analysis
 
-## 📌 Overview
+-->  Overview
 
 This project focuses on analyzing an Amazon sales dataset to understand key drivers of revenue, customer behavior, and product performance. The goal is to move beyond raw data and uncover meaningful insights that can support better business decisions.
 
 ---
 
-## 🎯 Objective
+-->  Objective
 
 The analysis aims to answer important business questions such as:
 
@@ -17,7 +17,7 @@ The analysis aims to answer important business questions such as:
 
 ---
 
-## 🧰 Tools & Technologies
+-->  Tools & Technologies
 
 * **Python** (Pandas, NumPy)
 * **Data Visualization** (Matplotlib, Seaborn)
@@ -25,7 +25,7 @@ The analysis aims to answer important business questions such as:
 
 ---
 
-### 🔹 Correlation Analysis
+-->  Correlation Analysis
 
 Used correlation matrices and heatmaps to identify relationships between numerical variables and determine which factors most influence revenue.
 
@@ -39,7 +39,7 @@ Created meaningful categories to simplify analysis:
 
 ---
 
-## 💡 Key Insights
+-->  Key Insights
 
 * **Revenue Concentration:** A small group of top products contributes a significant share of total revenue, indicating moderate dependency on high performers.
 
@@ -51,13 +51,13 @@ Created meaningful categories to simplify analysis:
 
 ---
 
-## 📈 Conclusion
+-->  Conclusion
 
 The analysis suggests that revenue growth is driven more by product quality and pricing strategy than aggressive discounting. Businesses can benefit from focusing on high-performing and highly rated products while optimizing discount strategies.
 
 ---
 
-## 🙌 Final Thoughts
+-->  Final Thoughts
 
 This project reflects a practical approach to data analysis by combining technical skills with business thinking. The focus has been on extracting actionable insights rather than just running queries, with an emphasis on clear interpretation and decision-making.
 
